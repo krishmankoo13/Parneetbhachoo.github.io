@@ -1,2 +1,6 @@
 # Parneetbhachoo.github.io
-This is my first github website 
+## activity report of induction program 
+| Syntax | yo wassup guys |
+| ----------- | ----------- |
+| Header | Title |
+| resource person | mr pyare lal garg|
